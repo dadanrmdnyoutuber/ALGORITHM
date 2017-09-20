@@ -1,0 +1,427 @@
+================================= 
+   GAME LIGHTBOT BASIC (FREE) 
+================================= 
+1. Siapkan smartphone 
+2. Pastikan anda mempunyai kuota 
+3. Buka playstore 
+4. Download game 'lightbot free' 
+5. Jalankan game 'lightbot free' 
+================================= 
+- STAGE BASIC (1-1) 
+	1. Open stage 
+	2. Maju 1 kotak 
+	3. Maju 1 kotak 
+	4. Nyalakan lampu 
+	5. Run 
+	6. Selesai 
+	7. Next stage 
+================================= 
+- STAGE BASIC (1-2)  
+	1. Maju 1 kotak 
+	2. Maju 1 kotak 
+	3. Hadap kiri 
+	4. Maju 1 kotak 
+	5. Maju 1 kotak 
+	6. Hadap kiri 
+	7. Maju 1 kotak 
+	8. Maju 1 kotak 
+	9. Nyalakan lampu 
+	10. Run 
+	11. Selesai 
+	12. Next stage 
+================================== 
+- STAGE BASIC (1-3)
+	1. Loncat ke depan 1 kotak 
+	2. Hadap kanan 
+	3. Loncat ke depan 1 kotak 
+	4. Hadap kanan 
+	5. Loncat ke depan 1 kotak 
+	6. Nyalakan lampu 
+	7. Run 
+	8. Selesai 
+	9. Next stage 
+================================== 
+- STAGE BASIC (1-4) 
+	1. Maju 1 kotak 
+	2. Maju 1 kotak 
+	3. Hadap kiri 
+	4. Loncat ke depan 1 kotak 
+	5. Loncat ke depan 1 kotak 
+	6. Loncat ke depan 1 kotak 
+	7. Loncat ke depan 1 kotak 
+	8. Nyalakan lampu 
+	9. Run 
+	10. Selesai 
+	11. Next stage 
+================================== 
+- BASIC STAGE (1-5)
+	1. Nyalakan lampu 
+	2. Loncat ke depan 1 kotak 
+	3. Maju 1 kotak 
+	4. Hadap kiri 
+	5. Maju 1 kotak 
+	6. Nyalakan lampu 
+	7. Loncat ke depan 1 kotak 
+	8. Hadap kiri 
+	9. Maju 1 kotak 
+	10. Maju 1 kotak 
+	11. Nyalakan lampu 
+	12. Run 
+	13. Selesai 
+	14. Next stage 
+================================== 
+- STAGE BASIC (1-6)
+	1. Loncat ke depan 1 kotak 
+	2. Hadap kiri 
+	3. Maju 1 kotak 
+	4. Loncat ke depan 1 kotak 
+	5. Nyalakan lampu 
+	6. Hadap kiri 
+	7. Maju 1 kotak 
+	8. Maju 1 kotak 
+	9. Hadap kanan 
+	10. Loncat ke depan 1 kotak 
+	11. Maju 1 kotak 
+	12. Nyalakan lampu 
+	13. Run 
+	14. Selesai 
+	15. Next stage 
+================================== 
+- STAGE BASIC (1-7)
+	1. Maju 1 kotak 
+	2. Hadap kiri 
+	3. Loncat ke depan 1 kotak 
+	4. Nyalakan lampu 
+	5. Loncat ke depan 1 kotak 
+	6. Nyalakan lampu 
+	7. Hadap kiri 
+	8. Loncat ke depan 1 kotak 
+	9. Nyalakan lampu 
+	10. Hadap kiri 
+	11. Loncat ke depan 1 kotak 
+	12. Nyalakan lampu 
+	13. Run 
+	14. Selesai 
+	15. Next stage 
+================================== 
+- BASIC STAGE (1-8)
+	1. Loncat ke depan 1 kotak 
+	2. Loncat ke depan 1 kotak 
+	3. Loncat ke depan 
+	4. Nyalakan lampu 
+	5. Hadap kiri 
+	6. Loncat ke depan 
+	7. Nyalakan lampu 
+	8. Hadap kanan 
+	9. Hadap kanan 
+	10. Loncat ke depan 
+	11. Maju satu petak 
+	12. Nyalakan lampu 
+	13. Run 
+	14. Selesai 
+==================================
+       CONGRATS STAGE BASIC
+==================================
+
+================================== 
+GAME LIGHTBOT PROC 2 
+================================== 
+1. Siapkan smartphone 
+2. Pastikan anda mempunyai kuota 
+3. Buka playstore 
+4. Download game 'lightbot free' 
+5. Jalankan game 'lightbot free' 
+================================== 
+- STAGE PROC 2 (1) ￼ 
+  1. Open stage Proc 
+  2. P1 
+	- 1. Maju satu petak 
+	- 2. Maju satu petak 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+	- 5. Hadap kanan 
+	- 6. P1 
+  3. Run 
+  4. Selesai 
+  4. Next stage 
+================================== 
+- STAGE PROC 2 (2) ￼ 
+  1. P1 
+	- 1. Maju satu langkah 
+	- 2. Hadap kiri 
+	- 3. Maju satu langkah 
+	- 4. Hadap kanan 
+	- 5. Nyalakan lampu 
+	- 6. P1 
+  2. Run 
+  3. Selesai 
+  4. Next stage 
+=================================== 
+- STAGE PROC 2 (3) ￼ 
+  1. P1 
+	- 1. Maju satu petak 
+	- 2. Maju satu petak 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+  2. Hadap kiri 
+  3. Loncat ke depan 
+  4. Hadap kiri 
+  5. P1 
+	- 1. Maju satu petak 
+	- 2. Maju satu petak 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+  6. Hadap kanan 
+  7. Loncat ke depan 
+  8. Hadap kanan 
+  9. P1 
+	- 1. Maju satu petak 
+	- 2. Maju satu petak 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+  10. Run 
+  11. Selesai 
+  12 next stage 
+=================================== 
+- STAGE PROC 2 (4) ￼ 
+  1. P1 
+	- 1. Maju satu petak 
+	- 2. Nyalakan lampu 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+	- 5. Maju satu petak 
+	- 6. Nyalakan lampu 
+	- 7. Maju satu petak 
+	- 8. Nyalakan lampu 
+	2. Hadap kanan 
+  3. P2 
+	- 1. Maju satu petak 
+	- 2. Maju satu petak 
+  4. Hadap kanan 
+  5. P1 
+	- 1. Maju satu petak 
+	- 2. Nyalakan lampu 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+	- 5. Maju satu petak 
+	- 6. Nyalakan lampu 
+	- 7. Maju satu petak 
+	- 8. Nyalakan lampu 
+  6. Hadap kiri 
+  7. P2 
+	- 1. Maju satu petak 
+	- 2. Maju satu petak 
+  8. Hadap kiri 
+  9. P1 
+	- 1. Maju satu petak 
+	- 2. Nyalakan lampu 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+	- 5. Maju satu petak 
+	- 6. Nyalakan lampu 
+	- 7. Maju satu petak 
+	- 8. Nyalakan lampu 
+  10. Run 
+  11. Selesai 
+  12. Next stage 
+=================================== 
+- STAGE PROC 2 (5) ￼ 
+  1. P1 
+	- 1. Nyalakan lampu 
+	- 2. Loncat ke depan 
+	- 3. Nyalakan lampu 
+	- 4. Loncat ke depan 
+	- 5. Nyalakan lampu 
+	- 6. Loncat ke depan 
+	- 7. Nyalakan lampu 
+  2. P2 
+	- 1. Hadap kanan 
+	- 2. Hadap kanan 
+	- 3. Loncat ke depan 
+	- 4. Loncat ke depan 
+	- 5. Hadao kanan 
+	- 6. Loncat ke depan 
+	- 7. Maju satu petak 
+	- 8. Hadap kanan 
+  3. P1 
+	- 1. Nyalakan lampu 
+	- 2. Loncat ke depan 
+	- 3. Nyalakan lampu 
+	- 4. Loncat ke depan 
+	- 5. Nyalakan lampu 
+	- 6. Loncat ke depan 
+	- 7. Nyalakan lampu 
+  4. P2 
+	- 1. Hadap kanan 
+	- 2. Hadap kanan 
+	- 3. Loncat ke depan 
+	- 4. Loncat ke depan 
+	- 5. Hadao kanan 
+	- 6. Loncat ke depan 
+	- 7. Maju satu petak 
+	- 8. Hadap kanan 
+  5. P1 
+	- 1. Nyalakan lampu 
+	- 2. Loncat ke depan 
+	- 3. Nyalakan lampu 
+	- 4. Loncat ke depan 
+	- 5. Nyalakan lampu 
+	- 6. Loncat ke depan 
+	- 7. Nyalakan lampu 
+  6. P2 
+	- 1. Hadap kanan 
+	- 2. Hadap kanan 
+	- 3. Loncat ke depan 
+	- 4. Loncat ke depan 
+	- 5. Hadao kanan 
+	- 6. Loncat ke depan 
+	- 7. Maju satu petak 
+	- 8. Hadap kanan 
+  7. Run 
+  8. Selesai 
+  9. Next stage 
+=================================== 
+- STAGE PROC 2 (6) 
+  1. P1 � 
+Isi P1 (-) : 
+	- 1. P2 
+Isi P2 (#) : 
+	# 1. Maju satu petak 
+	# 2. Nyalakan lampu 
+	# 3. Hadap kiri 
+	# 4. Maju ke depan 
+	# 5. Nyalakan lampu 
+	# 6. Hadap kiri 
+	# 7. Maju satu petak 
+	# 8. Nyalakan lampu 
+Isi P1 (-) 
+	- 2. Hadap kiri 
+	- 3. Maju satu petak 
+	- 4. Nyalakan lampu 
+	- 5. Hadap kiri 
+	- 6. Maju satu petak 
+	- 7. Loncat ke depan 
+	- 8. Loncat ke depan 
+  2. Maju satu petak 
+  3. Hadap kiri 
+  4. P1 
+  5. Maju satu petak 
+  6. Hadap kiri 
+  7. P1 
+  8. Maju satu petak 
+  9. Hadap kiri 
+  10. P1 
+  11. Run 
+  12. Selesai
+===================================
+       CONGRATS STAGE PROC 2
+===================================
+
+
+=================================== 
+1. Siapkan smartphone 
+2. Pastikan anda mempunyai kuota 
+3. Buka playstore 
+4. Download game 'lightbot free' 
+5. Jalankan game 'lightbot free' 
+=================================== 
+- STAGE LOOPS 3 (1)
+  1. Open stage 
+  2. Panggil P1 
+Isi P1 
+	- 1. Maju satu petak 
+	- 2. Nyalakan lampu 
+	- 3. P1 
+  3. ~ tak hingga 
+  4. Run 
+  5. Selesai 
+  6. Next stage 
+==================================== 
+- STAGE LOOPS 3 (2) 
+  1. Panggil P1 
+Isi P1 
+	- 1. Loncat ke depan 
+	- 2. Nyalakan lampu 
+	- 3. Panggil P1 
+  2. ~ tak hingga 
+  3. Run 
+  4. Selesai 
+  5. Next stage 
+==================================== 
+- STAGE LOOPS 3 (3) 
+  1. Panggil P1 
+ Isi P1 : 
+	- 1. Maju 1 kotak 
+	- 2. Nyalakan lampu 
+	- 3. Hadap kiri 
+	- 4. Maju 1 kotak 
+	- 5. Loncat ke depan 
+	- 6. Nyalakan lampu 
+	- 7. Loncat ke depan 
+	- 8. Panggil P1 
+  2. ~ tak hingga 
+  3. Run 
+  4. Selesai 
+  5. Next stage 
+==================================== 
+- STAGE LOOPS 3 (4)
+  1. Panggil P1 
+Isi P1 : 
+	- 1. Nyalakan lampu 
+	- 2. Maju satu petak 
+	- 3. Hadap kiri 
+	- 4. Maju satu petak 
+	- 5. Nyalakan lampu 
+	- 6. Hadap kanan 
+	- 7. Maju satu petak 
+	- 8. P1 
+  2. ~ tak hingga 
+  3. Run 
+  4. Selesai 
+  5. Next stage 
+==================================== 
+- STAGE LOOPS 3 (5) ￼ 
+  1. P1 
+ Isi P1 (-) : 
+	- 1. P2 
+ Isi P2 (#) : 
+	# 1. Nyalakan lampu 
+	# 2. Loncat ke depan 
+	# 3. Nyalakan lampu 
+	# 4. Maju satu petak 
+	# 5. Nyalakan lampu 
+	# 6. Maju satu petak 
+	# 7. Nyalakan lampu 
+	# 8. Loncat ke depan 
+	- 2. Hadap kiri 
+	- 3. P1 
+  2. ~ tak hingga 
+  3. Run 
+  4. Selesai 
+  5. Next stage 
+==================================== 
+- STAGE LOOPS 3 (6) 
+  1. P1 
+ Isi P1 (-) : 
+	- 1. P2 
+ Isi P2 (#) : 
+	# 1. Nyalakan lampu 
+	# 2. Loncat ke depan 
+	# 3. Hadap kiri 
+	# 4. Maju satu petak 
+	# 5. Nyalakan lampu 
+	# 6. Loncat ke depan 
+	# 7. Loncat ke depan 
+	- 2. Maju ke depan 
+	- 3. hadap kiri 
+	- 4. Loncat ke depan 
+	- 5. Hadap kiri 
+	- 6. P1 
+  2. ~ tak hingga 
+  3. Run 
+  4. Selesai 
+==================================== 
+    C O N G R A T U L A T I O N ! 
+ A L L  S T A G E L I G H T B O T !
+      F R E E  V E R S I O N !
+====================================
